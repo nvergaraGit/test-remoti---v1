@@ -1,0 +1,7 @@
+[0810/154639.696:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0818/131949.442:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0818/132040.436:ERROR:file_io.cc(134)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0820/115850.300:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0822/221939.545:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0822/221939.551:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0822/221939.551:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
